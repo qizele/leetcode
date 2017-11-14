@@ -4,3 +4,4 @@
 - [leetcode 2 - Add Two Numbers](https://github.com/qizele/leetcode/issues/2)
 - [leetcode 3 - Longest Substring Without Repeating Characters](https://github.com/qizele/leetcode/issues/3)
 - [leetcode 4 - Median of Two Sorted Arrays](https://github.com/qizele/leetcode/issues/4)
+- [leetcode 5 - Longest Palindromic Substring](https://github.com/qizele/leetcode/issues/5)
