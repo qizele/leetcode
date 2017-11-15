@@ -6,3 +6,4 @@
 - [leetcode 4 - Median of Two Sorted Arrays](https://github.com/qizele/leetcode/issues/4)
 - [leetcode 5 - Longest Palindromic Substring](https://github.com/qizele/leetcode/issues/5)
 - [leetcode 6 - ZigZag Conversion](https://github.com/qizele/leetcode/issues/6)
+- [leetcode 7 - Reverse Integer](https://github.com/qizele/leetcode/issues/7)
