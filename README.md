@@ -1,5 +1,5 @@
-# Leetcode 刷题总结(Python)
-## 这年头，连做data和analytics的DS都要刷题了。。也罢。。那我就来刷两遍简单的和中等难度的。。这个总结用中文写，方便一些。我可没那么多闲功夫。。
+# Leetcode with Python
+## Summary in Chinese for Leetcode Practice (only easy and medium questions)
 - [leetcode 1 - Two Sum](https://github.com/qizele/leetcode/issues/1)
 - [leetcode 2 - Add Two Numbers](https://github.com/qizele/leetcode/issues/2)
 - [leetcode 3 - Longest Substring Without Repeating Characters](https://github.com/qizele/leetcode/issues/3)
