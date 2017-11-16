@@ -14,4 +14,5 @@
 - leetcode 12 - Integer to Roman (I don't know Roman)
 - leetcode 13 - Roman to Integer (I don't know Roman)
 - [leetcode 14 - Longest Common Prefix](https://github.com/qizele/leetcode/issues/14)
-
+- [leetcode 15 - 3Sum](https://github.com/qizele/leetcode/issues/15)
+- [leetcode 15 - 3Sum Closet](https://github.com/qizele/leetcode/issues/16)
