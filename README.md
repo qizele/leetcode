@@ -17,3 +17,4 @@
 - [leetcode 15 - 3Sum](https://github.com/qizele/leetcode/issues/15)
 - [leetcode 16 - 3Sum Closet](https://github.com/qizele/leetcode/issues/16)
 - [leetcode 17 - Letter Combinations of a Phone Number](https://github.com/qizele/leetcode/issues/17)
+- [leetcode 18 - 4Sum](https://github.com/qizele/leetcode/issues/18)
