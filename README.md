@@ -13,4 +13,5 @@
 - **[leetcode 11 - Container With Most Water](https://github.com/qizele/leetcode/issues/11)**
 - leetcode 12 - Integer to Roman (I don't know Roman)
 - leetcode 13 - Roman to Integer (I don't know Roman)
+- [leetcode 14 - Longest Common Prefix](https://github.com/qizele/leetcode/issues/14)
 
