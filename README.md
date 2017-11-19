@@ -27,5 +27,5 @@
 - [leetcode 24 - Swap Nodes in Pairs](https://github.com/qizele/leetcode/issues/24)
 - leetcode 25 - Reverse Nodes in k-Group (Hard)
 - **[leetcode 26 - Remove Duplicates from Sorted Array](https://github.com/qizele/leetcode/issues/26)**
-
+- [leetcode 27 - Remove Element](https://github.com/qizele/leetcode/issues/27)
 
