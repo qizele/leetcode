@@ -24,3 +24,6 @@
 - [leetcode 22 - Generate Parentheses](https://github.com/qizele/leetcode/issues/22)
 - leetcode 23 - Merge k Sorted Lists (Hard)
 - [leetcode 24 - Swap Nodes in Pairs](https://github.com/qizele/leetcode/issues/24)
+leetcode 25 - Reverse Nodes in k-Group (Hard)
+- [leetcode 26 - Remove Duplicates from Sorted Array](https://github.com/qizele/leetcode/issues/26)
+
