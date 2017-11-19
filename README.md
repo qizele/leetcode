@@ -20,3 +20,4 @@
 - [leetcode 18 - 4Sum](https://github.com/qizele/leetcode/issues/18)
 - [leetcode 19 - Remove Nth Node From End of List](https://github.com/qizele/leetcode/issues/19)
 - [leetcode 20 - Valid Parentheses](https://github.com/qizele/leetcode/issues/20)
+- [leetcode 21 - Merge Two Sorted Lists](https://github.com/qizele/leetcode/issues/21)
