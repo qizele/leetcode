@@ -22,3 +22,5 @@
 - [leetcode 20 - Valid Parentheses](https://github.com/qizele/leetcode/issues/20)
 - [leetcode 21 - Merge Two Sorted Lists](https://github.com/qizele/leetcode/issues/21)
 - [leetcode 22 - Generate Parentheses](https://github.com/qizele/leetcode/issues/22)
+- leetcode 23 - Merge k Sorted Lists (Hard)
+- [leetcode 24 - Swap Nodes in Pairs](https://github.com/qizele/leetcode/issues/24)
