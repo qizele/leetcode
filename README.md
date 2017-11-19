@@ -28,4 +28,4 @@
 - leetcode 25 - Reverse Nodes in k-Group (Hard)
 - **[leetcode 26 - Remove Duplicates from Sorted Array](https://github.com/qizele/leetcode/issues/26)**
 - [leetcode 27 - Remove Element](https://github.com/qizele/leetcode/issues/27)
-
+- [leetcode 28 - Implement strStr()](https://github.com/qizele/leetcode/issues/28)
