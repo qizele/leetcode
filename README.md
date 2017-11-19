@@ -1,5 +1,6 @@
 # Leetcode with Python
 ## Summary in Chinese for Leetcode Practice (only easy and medium questions)
+### Please Watch or Star, Don't Fork....
 - [leetcode 1 - Two Sum](https://github.com/qizele/leetcode/issues/1)
 - [leetcode 2 - Add Two Numbers](https://github.com/qizele/leetcode/issues/2)
 - [leetcode 3 - Longest Substring Without Repeating Characters](https://github.com/qizele/leetcode/issues/3)
