@@ -29,3 +29,4 @@
 - **[leetcode 26 - Remove Duplicates from Sorted Array](https://github.com/qizele/leetcode/issues/26)**
 - [leetcode 27 - Remove Element](https://github.com/qizele/leetcode/issues/27)
 - [leetcode 28 - Implement strStr()](https://github.com/qizele/leetcode/issues/28)
+- **[leetcode 29 - Divide Two Integers](https://github.com/qizele/leetcode/issues/29)**
