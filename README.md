@@ -34,5 +34,5 @@
 - **[leetcode 31 - Next Permutation](https://github.com/qizele/leetcode/issues/31)**
 - leetcode 32. Longest Valid Parentheses (HARD)
 - [leetcode 33 - Search in Rotated Sorted Array](https://github.com/qizele/leetcode/issues/33)
-
+- [leetcode 34 - Search for a Range](https://github.com/qizele/leetcode/issues/34)
 
