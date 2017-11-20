@@ -30,3 +30,6 @@
 - [leetcode 27 - Remove Element](https://github.com/qizele/leetcode/issues/27)
 - [leetcode 28 - Implement strStr()](https://github.com/qizele/leetcode/issues/28)
 - **[leetcode 29 - Divide Two Integers](https://github.com/qizele/leetcode/issues/29)**
+- leetcode 30 - Substring with Concatenation of All Words
+- [leetcode 31 - Next Permutation](https://github.com/qizele/leetcode/issues/31)
+
