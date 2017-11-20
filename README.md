@@ -36,3 +36,4 @@
 - [leetcode 33 - Search in Rotated Sorted Array](https://github.com/qizele/leetcode/issues/33)
 - [leetcode 34 - Search for a Range](https://github.com/qizele/leetcode/issues/34)
 - [leetcode 35 - Search Insert Position](https://github.com/qizele/leetcode/issues/35)
+- [leetcode 36 - Valid Sudoku](https://github.com/qizele/leetcode/issues/36)
