@@ -37,4 +37,5 @@
 - [leetcode 34 - Search for a Range](https://github.com/qizele/leetcode/issues/34)
 - [leetcode 35 - Search Insert Position](https://github.com/qizele/leetcode/issues/35)
 - [leetcode 36 - Valid Sudoku](https://github.com/qizele/leetcode/issues/36)
-- [leetcode 37 - Count and Say](https://github.com/qizele/leetcode/issues/37)
+- leetcode 37. Sudoku Solver (HARD)
+- [leetcode 38 - Count and Say](https://github.com/qizele/leetcode/issues/38)
