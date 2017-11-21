@@ -39,4 +39,5 @@
 - [leetcode 36 - Valid Sudoku](https://github.com/qizele/leetcode/issues/36)
 - leetcode 37. Sudoku Solver (HARD)
 - [leetcode 38 - Count and Say](https://github.com/qizele/leetcode/issues/38)
-- [leetcode 38 - Combination Sum](https://github.com/qizele/leetcode/issues/39)
+- [leetcode 39 - Combination Sum](https://github.com/qizele/leetcode/issues/39)
+- [leetcode 40 - Combination Sum II](https://github.com/qizele/leetcode/issues/40)
