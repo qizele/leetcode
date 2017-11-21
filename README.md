@@ -41,3 +41,6 @@
 - [leetcode 38 - Count and Say](https://github.com/qizele/leetcode/issues/38)
 - [leetcode 39 - Combination Sum](https://github.com/qizele/leetcode/issues/39)
 - [leetcode 40 - Combination Sum II](https://github.com/qizele/leetcode/issues/40)
+- leetcode 41. First Missing Positive (HARD)
+- leetcode 42. Trapping Rain Water (HARD)
+- [leetcode 43 - Multiply Strings](https://github.com/qizele/leetcode/issues/43)
