@@ -47,3 +47,4 @@
 - leetcode 44. Wildcard Matching (HARD)
 - leetcode 45. Jump Game II (HARD)
 - [leetcode 46 - Permutations](https://github.com/qizele/leetcode/issues/46)
+- [leetcode 47 - Permutations II](https://github.com/qizele/leetcode/issues/47)
