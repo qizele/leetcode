@@ -1,6 +1,6 @@
 # Leetcode with Python 
 ## (The Solution for Data Scientist) - Easy to understand with optimal solutions that can pass all Leetcode test cases, for non-SDEs. 
-## Summary in Chinese for Leetcode Practice (only easy and medium questions)
+## Summarized in Chinese (only easy and medium questions)
 ### Please Watch or Star, Don't Fork....
 - [leetcode 1 - Two Sum](https://github.com/qizele/leetcode/issues/1)
 - [leetcode 2 - Add Two Numbers](https://github.com/qizele/leetcode/issues/2)
