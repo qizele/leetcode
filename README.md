@@ -50,3 +50,5 @@
 - [leetcode 47 - Permutations II](https://github.com/qizele/leetcode/issues/47)
 - [leetcode 48 - Rotate Image](https://github.com/qizele/leetcode/issues/48)
 - [leetcode 49 - Group Anagrams](https://github.com/qizele/leetcode/issues/49)
+- [leetcode 50 - Pow(x, n)](https://github.com/qizele/leetcode/issues/50)
+
