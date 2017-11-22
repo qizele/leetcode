@@ -44,3 +44,6 @@
 - leetcode 41. First Missing Positive (HARD)
 - leetcode 42. Trapping Rain Water (HARD)
 - [leetcode 43 - Multiply Strings](https://github.com/qizele/leetcode/issues/43)
+- leetcode 44. Wildcard Matching (HARD)
+- leetcode 45. Jump Game II (HARD)
+- [leetcode 46 - Permutations](https://github.com/qizele/leetcode/issues/46)
