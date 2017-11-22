@@ -48,3 +48,5 @@
 - leetcode 45. Jump Game II (HARD)
 - [leetcode 46 - Permutations](https://github.com/qizele/leetcode/issues/46)
 - [leetcode 47 - Permutations II](https://github.com/qizele/leetcode/issues/47)
+- [leetcode 47 - Rotate Image](https://github.com/qizele/leetcode/issues/48)
+- [leetcode 47 - Group Anagrams](https://github.com/qizele/leetcode/issues/49)
