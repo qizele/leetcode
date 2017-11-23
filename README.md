@@ -62,3 +62,5 @@
 - [leetcode 58 - Merge Intervals](https://github.com/qizele/leetcode/issues/58)
 - [leetcode 59 - Spiral Matrix II](https://github.com/qizele/leetcode/issues/59)
 - **[leetcode 60 - Permutation Sequence](https://github.com/qizele/leetcode/issues/60)**
+- [leetcode 61 - Rotate List](https://github.com/qizele/leetcode/issues/61)
+- [leetcode 62 - Unique Paths](https://github.com/qizele/leetcode/issues/62)
