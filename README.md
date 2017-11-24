@@ -69,3 +69,4 @@
 - Leetcode 65. Valid Number (HARD)
 - [leetcode 66 - Plus One](https://github.com/qizele/leetcode/issues/66)
 - [leetcode 66 - Add Binary](https://github.com/qizele/leetcode/issues/67)
+- Leetcode 68. Text Justification (HARD)
