@@ -80,3 +80,5 @@
 - leetcode 76. Minimum Window Substring (HARD)
 - [leetcode 77 - Combinations](https://github.com/qizele/leetcode/issues/77)
 - [leetcode 78 - Subsets](https://github.com/qizele/leetcode/issues/78)
+- **[leetcode 79 - Word Search](https://github.com/qizele/leetcode/issues/79)**
+- [leetcode 80 - Remove Duplicates from Sorted Array II](https://github.com/qizele/leetcode/issues/80)
