@@ -72,3 +72,6 @@
 - Leetcode 68. Text Justification (HARD)
 - [leetcode 69 - Sqrt(x)](https://github.com/qizele/leetcode/issues/69)
 - [leetcode 70 - Climbing Stairs](https://github.com/qizele/leetcode/issues/70)
+- [leetcode 71 - Simplify Path](TBD)
+- leetcode 72. Simplify Path (HARD)
+- [leetcode 73 - Set Matrix Zeroes](https://github.com/qizele/leetcode/issues/73)
