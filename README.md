@@ -66,3 +66,5 @@
 - [leetcode 62 - Unique Paths](https://github.com/qizele/leetcode/issues/62)
 - [leetcode 63 - Unique Paths II](https://github.com/qizele/leetcode/issues/63)
 - [leetcode 64 - Minimum Path Sum](https://github.com/qizele/leetcode/issues/64)
+- Leetcode 65. Valid Number (HARD)
+- [leetcode 66 - Plus One](https://github.com/qizele/leetcode/issues/66)
