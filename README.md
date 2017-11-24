@@ -70,3 +70,5 @@
 - [leetcode 66 - Plus One](https://github.com/qizele/leetcode/issues/66)
 - [leetcode 66 - Add Binary](https://github.com/qizele/leetcode/issues/67)
 - Leetcode 68. Text Justification (HARD)
+- [leetcode 69 - Sqrt(x)](https://github.com/qizele/leetcode/issues/69)
+- [leetcode 70 - Climbing Stairs](https://github.com/qizele/leetcode/issues/70)
