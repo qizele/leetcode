@@ -84,3 +84,6 @@
 - [leetcode 80 - Remove Duplicates from Sorted Array II](https://github.com/qizele/leetcode/issues/80)
 - [leetcode 81 - Search in Rotated Sorted Array II](https://github.com/qizele/leetcode/issues/81)
 - **[leetcode 82 - Remove Duplicates from Sorted List II](https://github.com/qizele/leetcode/issues/82)**
+- [leetcode 83 - Remove Duplicates from Sorted List](https://github.com/qizele/leetcode/issues/83)
+- leetcode 84. Largest Rectangle in Histogram (HARD)
+- leetcode 85. Maximal Rectangle (HARD)
