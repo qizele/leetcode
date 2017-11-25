@@ -96,3 +96,5 @@
 - [leetcode 92 - Reverse Linked List II](https://github.com/qizele/leetcode/issues/92)
 - [leetcode 93 - Restore IP Addresses](https://github.com/qizele/leetcode/issues/93) (TBD)
 - [leetcode 94 - Binary Tree Inorder Traversal](https://github.com/qizele/leetcode/issues/94)
+
+- [leetcode 98 - Validate Binary Search Tree](https://github.com/qizele/leetcode/issues/98)
