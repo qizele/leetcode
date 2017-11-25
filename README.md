@@ -89,4 +89,6 @@
 - leetcode 85. Maximal Rectangle (HARD)
 - [leetcode 86 - Partition List](https://github.com/qizele/leetcode/issues/86)
 - leetcode 87. Scramble String (HARD)
-- [leetcode 88 - Merge Sorted Array](https://github.com/qizele/leetcode/issues/88)
+- **[leetcode 88 - Merge Sorted Array](https://github.com/qizele/leetcode/issues/88)**
+- [leetcode 89 - Gray Code](https://github.com/qizele/leetcode/issues/89)
+- [leetcode 90 - Gray Code](https://github.com/qizele/leetcode/issues/90)
