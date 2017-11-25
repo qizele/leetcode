@@ -88,5 +88,5 @@
 - leetcode 84. Largest Rectangle in Histogram (HARD)
 - leetcode 85. Maximal Rectangle (HARD)
 - [leetcode 86 - Partition List](https://github.com/qizele/leetcode/issues/86)
-- 87. Scramble String (HARD)
+- leetcode 87. Scramble String (HARD)
 - [leetcode 88 - Merge Sorted Array](https://github.com/qizele/leetcode/issues/88)
