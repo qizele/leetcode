@@ -92,3 +92,5 @@
 - **[leetcode 88 - Merge Sorted Array](https://github.com/qizele/leetcode/issues/88)**
 - [leetcode 89 - Gray Code](https://github.com/qizele/leetcode/issues/89)
 - [leetcode 90 - Subsets II](https://github.com/qizele/leetcode/issues/90)
+- **[leetcode 91 - Decode Ways](https://github.com/qizele/leetcode/issues/91)**
+- [leetcode 92 - Reverse Linked List II](https://github.com/qizele/leetcode/issues/92)
