@@ -106,4 +106,4 @@
 - [leetcode 102 - Binary Tree Level Order Traversal](https://github.com/qizele/leetcode/issues/102)
 - [leetcode 103 - Binary Tree Zigzag Level Order Traversal](https://github.com/qizele/leetcode/issues/103)
 - [leetcode 104 - Maximum Depth of Binary Tree](https://github.com/qizele/leetcode/issues/104)
-
+- **[leetcode 105 - Construct Binary Tree from Preorder and Inorder Traversal](https://github.com/qizele/leetcode/issues/105)
