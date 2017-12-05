@@ -1,7 +1,7 @@
 # Leetcode with Python 
 ## (The Solution for Data Scientist) - Easy to understand with optimal solutions that can pass all Leetcode test cases, for non-SDEs. 
-## Summarized in Chinese (only easy and medium questions)
-### Please Watch or Star, Don't Fork....
+## (only easy and medium questions)
+
 - [leetcode 1 - Two Sum](https://github.com/qizele/leetcode/issues/1)
 - [leetcode 2 - Add Two Numbers](https://github.com/qizele/leetcode/issues/2)
 - [leetcode 3 - Longest Substring Without Repeating Characters](https://github.com/qizele/leetcode/issues/3)
@@ -102,3 +102,4 @@
 - [leetcode 98 - Validate Binary Search Tree](https://github.com/qizele/leetcode/issues/95)
 - leetcode 99. Recover Binary Search Tree (HARD)
 - [leetcode 100 - Same Tree](https://github.com/qizele/leetcode/issues/98)
+- [leetcode 101 - Symmetric Tree](https://github.com/qizele/leetcode/issues/101)
