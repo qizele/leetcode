@@ -104,3 +104,6 @@
 - [leetcode 100 - Same Tree](https://github.com/qizele/leetcode/issues/98)
 - [leetcode 101 - Symmetric Tree](https://github.com/qizele/leetcode/issues/101)
 - [leetcode 102 - Binary Tree Level Order Traversal](https://github.com/qizele/leetcode/issues/102)
+- [leetcode 103 - Binary Tree Zigzag Level Order Traversal](https://github.com/qizele/leetcode/issues/103)
+- [leetcode 104 - Maximum Depth of Binary Tree](https://github.com/qizele/leetcode/issues/104)
+
